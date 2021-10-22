@@ -5,7 +5,8 @@
 [![56I7id.png](https://z3.ax1x.com/2021/10/22/56I7id.png)](https://imgtu.com/i/56I7id)
 
 # Intro
-用前端三件套写的一些小关卡，共 9 关
+用前端三件套写的一些小关卡，共 9 关</br> <br>
+[关卡传送门](https://ga1axyz.github.io/Crush/)
 
 # Home Page
 [![56IHJA.png](https://z3.ax1x.com/2021/10/22/56IHJA.png)](https://imgtu.com/i/56IHJA)
