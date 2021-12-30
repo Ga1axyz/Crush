@@ -1,11 +1,15 @@
 # Crush
-<strong>一切都会好的，祝大家幸福快乐</strong></br>
- </br>
+
+<strong>人生若只如初见，何事秋风悲画扇</strong></br>
+<strong>等闲变却故人心，却道故心人易变</strong></br>
+<strong>骊山语罢清宵半，泪雨霖铃终不怨</strong></br>
+<strong>何如薄幸锦衣郎，比翼连枝当日愿</strong></br>
+</br>
 
 [![56I7id.png](https://z3.ax1x.com/2021/10/22/56I7id.png)](https://imgtu.com/i/56I7id)
 
 # Intro
-用前端三件套写的一些小关卡，共 9 关</br> <br>
+之前写的一些小关卡，Something For Nothing.</br> <br>
 [关卡传送门](https://ga1axyz.github.io/Crush/)
 
 # Home Page
